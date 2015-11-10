@@ -1,0 +1,17 @@
+{
+  "name": "datenknoten/twitter-fetcher",
+  "description": "Fetches tweets and converts them into md files for grav",
+  "minimum-stability": "dev",
+  "license": "Vodka Ware",
+  "authors": [
+    {
+      "name": "Tim Schumacher",
+      "email": "tim@datenknoten.me"
+    }
+  ],
+  "require": {
+    "j7mbo/twitter-api-php": "~1.0.5",
+    "twig/twig": "1.6.5",
+    "guzzlehttp/guzzle": "6.1.0"
+  }
+}
